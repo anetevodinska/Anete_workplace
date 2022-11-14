@@ -1,0 +1,15 @@
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\Practical14-11.csproj.AssemblyReference.cache
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\Practical14-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\Practical14-11.AssemblyInfoInputs.cache
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\Practical14-11.AssemblyInfo.cs
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\Practical14-11.csproj.CoreCompileInputs.cache
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\bin\Debug\net6.0\Practical14-11.exe
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\bin\Debug\net6.0\Practical14-11.deps.json
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\bin\Debug\net6.0\Practical14-11.runtimeconfig.json
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\bin\Debug\net6.0\Practical14-11.dll
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\bin\Debug\net6.0\Practical14-11.pdb
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\Practical14-11.dll
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\refint\Practical14-11.dll
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\Practical14-11.pdb
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\Practical14-11.genruntimeconfig.cache
+C:\Users\anete\SheGoesTechPractical\vs221114\Practical14-11\Practical14-11\obj\Debug\net6.0\ref\Practical14-11.dll

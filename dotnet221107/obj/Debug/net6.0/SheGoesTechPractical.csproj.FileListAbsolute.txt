@@ -1,0 +1,15 @@
+C:\Users\anete\SheGoesTechPractical\bin\Debug\net6.0\SheGoesTechPractical.exe
+C:\Users\anete\SheGoesTechPractical\bin\Debug\net6.0\SheGoesTechPractical.deps.json
+C:\Users\anete\SheGoesTechPractical\bin\Debug\net6.0\SheGoesTechPractical.runtimeconfig.json
+C:\Users\anete\SheGoesTechPractical\bin\Debug\net6.0\SheGoesTechPractical.dll
+C:\Users\anete\SheGoesTechPractical\bin\Debug\net6.0\SheGoesTechPractical.pdb
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\SheGoesTechPractical.csproj.AssemblyReference.cache
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\SheGoesTechPractical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\SheGoesTechPractical.AssemblyInfoInputs.cache
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\SheGoesTechPractical.AssemblyInfo.cs
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\SheGoesTechPractical.csproj.CoreCompileInputs.cache
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\SheGoesTechPractical.dll
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\refint\SheGoesTechPractical.dll
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\SheGoesTechPractical.pdb
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\SheGoesTechPractical.genruntimeconfig.cache
+C:\Users\anete\SheGoesTechPractical\obj\Debug\net6.0\ref\SheGoesTechPractical.dll

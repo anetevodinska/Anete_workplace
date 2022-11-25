@@ -1,0 +1,15 @@
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\vs221123.csproj.AssemblyReference.cache
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\vs221123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\vs221123.AssemblyInfoInputs.cache
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\vs221123.AssemblyInfo.cs
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\vs221123.csproj.CoreCompileInputs.cache
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\bin\Debug\net6.0\vs221123.exe
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\bin\Debug\net6.0\vs221123.deps.json
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\bin\Debug\net6.0\vs221123.runtimeconfig.json
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\bin\Debug\net6.0\vs221123.dll
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\bin\Debug\net6.0\vs221123.pdb
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\vs221123.dll
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\refint\vs221123.dll
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\vs221123.pdb
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\vs221123.genruntimeconfig.cache
+C:\Users\anete\SheGoesTechPractical\vs221123\vs221123\vs221123\obj\Debug\net6.0\ref\vs221123.dll

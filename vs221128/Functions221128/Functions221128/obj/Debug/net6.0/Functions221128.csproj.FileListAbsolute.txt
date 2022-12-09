@@ -1,0 +1,15 @@
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\bin\Debug\net6.0\Functions221128.exe
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\bin\Debug\net6.0\Functions221128.deps.json
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\bin\Debug\net6.0\Functions221128.runtimeconfig.json
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\bin\Debug\net6.0\Functions221128.dll
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\bin\Debug\net6.0\Functions221128.pdb
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\Functions221128.csproj.AssemblyReference.cache
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\Functions221128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\Functions221128.AssemblyInfoInputs.cache
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\Functions221128.AssemblyInfo.cs
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\Functions221128.csproj.CoreCompileInputs.cache
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\Functions221128.dll
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\refint\Functions221128.dll
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\Functions221128.pdb
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\Functions221128.genruntimeconfig.cache
+C:\Users\anete\SheGoesTechPractical\vs221128\Functions221128\Functions221128\obj\Debug\net6.0\ref\Functions221128.dll

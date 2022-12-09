@@ -1,0 +1,5 @@
+C:\Users\anete\SheGoesTechPractical\task_221205\Phone_Validation\Phone_Validation\obj\Debug\net6.0\Phone_Validation.csproj.AssemblyReference.cache
+C:\Users\anete\SheGoesTechPractical\task_221205\Phone_Validation\Phone_Validation\obj\Debug\net6.0\Phone_Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anete\SheGoesTechPractical\task_221205\Phone_Validation\Phone_Validation\obj\Debug\net6.0\Phone_Validation.AssemblyInfoInputs.cache
+C:\Users\anete\SheGoesTechPractical\task_221205\Phone_Validation\Phone_Validation\obj\Debug\net6.0\Phone_Validation.AssemblyInfo.cs
+C:\Users\anete\SheGoesTechPractical\task_221205\Phone_Validation\Phone_Validation\obj\Debug\net6.0\Phone_Validation.csproj.CoreCompileInputs.cache
